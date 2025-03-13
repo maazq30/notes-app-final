@@ -1,5 +1,6 @@
 package com.example.myapplication;
 
+import android.annotation.SuppressLint;
 import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
@@ -39,7 +40,7 @@ public class NoteAdepter extends RecyclerView.Adapter<NoteAdepter.ViewHolder> {
     }
 
     @Override
-    public void onBindViewHolder(@NonNull NoteAdepter.ViewHolder holder, int position) {
+    public void onBindViewHolder(@NonNull NoteAdepter.ViewHolder holder, @SuppressLint("RecyclerView") int position) {
 
 
         holder.tvTitle.setText(arrayList.get(position).getTitle());
@@ -81,7 +82,7 @@ public class NoteAdepter extends RecyclerView.Adapter<NoteAdepter.ViewHolder> {
                         })
 
 
-                        .setIcon(R.drawable.baseline_add_alert_24)
+                        .setIcon(R.drawable.baseline_add_24)
                         .show();
 
 

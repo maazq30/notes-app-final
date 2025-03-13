@@ -64,7 +64,8 @@ public class MainActivity2 extends AppCompatActivity {
             public void onClick(View view) {
 
 
-                startActivity(new Intent(MainActivity.this,MainActivity2.class));
+                startActivity(new Intent(MainActivity2.this,
+                        MainActivity.class));
 
 
 
