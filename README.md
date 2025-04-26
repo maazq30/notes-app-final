@@ -8,6 +8,7 @@ interface, it enhances user engagement by enabling easy
 categorization, search functionality, and reminder settings for
 important notes.
 LOGIN PAGE:
+
 ![image](https://github.com/user-attachments/assets/cee85e69-6cf7-484f-8017-8faf065e6124)
 
 ![image](https://github.com/user-attachments/assets/eb816efa-bd2d-492d-b8e2-585d697d0689)
