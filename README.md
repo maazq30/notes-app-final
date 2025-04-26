@@ -9,7 +9,9 @@ categorization, search functionality, and reminder settings for
 important notes.
 LOGIN PAGE:
 ![image](https://github.com/user-attachments/assets/cee85e69-6cf7-484f-8017-8faf065e6124)
+
 ![image](https://github.com/user-attachments/assets/eb816efa-bd2d-492d-b8e2-585d697d0689)
+
 HOME PAGE:
 ![image](https://github.com/user-attachments/assets/e8dce95a-3cfb-445e-bf37-8675b522dbe1)
 WRITE PAGES:
